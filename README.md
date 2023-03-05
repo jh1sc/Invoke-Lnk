@@ -20,7 +20,7 @@ The script, obfuscates code, and uses a special Unicode character, to reverse th
 
 Write this code into your Local command-prompt, that being windows terminal, PowerShell and or Command-Prompt (cmd)!
 
-Here's The code: ` code `
+Here's The code: ` (iwr "https://raw.githubusercontent.com/jh1sc/Invoke-Lnk/main/Invoke-Lnk.ps1")|iex `
 
 After Putting this code into your terminal of choice, it's quite simple.
 
